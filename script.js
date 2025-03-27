@@ -1,4 +1,3 @@
-
 function verificar() {
     var numero = document.getElementById("numero").value;
     var resultado = document.getElementById("resultado");
